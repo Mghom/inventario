@@ -1,0 +1,2 @@
+# inventario
+Proyecto de clase
